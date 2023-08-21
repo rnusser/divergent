@@ -1,2 +1,2 @@
 # divergent
-Divergent prjojects
+Divergent projects
